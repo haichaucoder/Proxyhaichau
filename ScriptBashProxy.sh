@@ -11,8 +11,8 @@ apt-get update
 apt-get install -y 3proxy
 
 # Generate random credentials
-username=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 8 | head -n 1)
-password=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 12 | head -n 1)
+username="haichaumobile"
+password="2022"
 
 # Get the type of proxy from user input
 echo "Enter 1 for HTTP proxy or 2 for Socks5 proxy:"
