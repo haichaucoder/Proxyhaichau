@@ -1,3 +1,3 @@
-curl -fsSL https://bit.ly/3HrHGul
+curl -fsSL https://bit.ly/3HucaMj
 
-bash <(curl -fsSL https://bit.ly/3HrHGul)
+bash <(curl -fsSL https://bit.ly/3HucaMj)
